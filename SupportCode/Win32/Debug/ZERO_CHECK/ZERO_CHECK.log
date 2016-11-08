@@ -1,0 +1,42 @@
+﻿Build started 4/29/2016 1:25:28 PM.
+     1>Project "D:\Google Drive\GMU\CS 580 - Introduction to Artificial Intelligence - Amarda Shehu\AssignTTT\SupportCode\ZERO_CHECK.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Win32\Debug\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Checking Build System
+         CMake is re-running because D:/Google Drive/GMU/CS 580 - Introduction to Artificial Intelligence - Amarda Shehu/AssignTTT/SupportCode/CMakeFiles/generate.stamp is out-of-date.
+           the file 'D:/CMake/share/cmake-3.5/Modules/CMakeDetermineSystem.cmake'
+           is newer than 'D:/Google Drive/GMU/CS 580 - Introduction to Artificial Intelligence - Amarda Shehu/AssignTTT/SupportCode/CMakeFiles/generate.stamp.depend'
+           result='-1'
+         -- The CXX compiler identification is MSVC 16.0.40219.1
+         -- The C compiler identification is MSVC 16.0.40219.1
+         -- Check for working CXX compiler using: Visual Studio 10 2010
+         -- Check for working CXX compiler using: Visual Studio 10 2010 -- works
+         -- Detecting CXX compiler ABI info
+         -- Detecting CXX compiler ABI info - done
+         -- Detecting CXX compile features
+         -- Detecting CXX compile features - done
+         -- Check for working C compiler using: Visual Studio 10 2010
+         -- Check for working C compiler using: Visual Studio 10 2010 -- works
+         -- Detecting C compiler ABI info
+         -- Detecting C compiler ABI info - done
+         -- Found GLUT: glut32  
+         
+         *****************************************************************************
+         * EXTERNAL LIBRARIES
+         *   GL     : opengl32
+         *   GLU    : glu32
+         *   GLUT   : glut32
+         *****************************************************************************
+         
+         -- Configuring done
+         -- Generating done
+         -- Build files have been written to: D:/Google Drive/GMU/CS 580 - Introduction to Artificial Intelligence - Amarda Shehu/AssignTTT/SupportCode
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild".
+         Touching "Win32\Debug\ZERO_CHECK\ZERO_CHECK.lastbuildstate".
+     1>Done Building Project "D:\Google Drive\GMU\CS 580 - Introduction to Artificial Intelligence - Amarda Shehu\AssignTTT\SupportCode\ZERO_CHECK.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.98
